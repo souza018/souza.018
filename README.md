@@ -1,1 +1,197 @@
+
 # souza.018
+<!--
+████████████████████████████████████████████████████████████████████████
+                    SYSTEM ONLINE // GITHUB PROFILE
+████████████████████████████████████████████████████████████████████████
+-->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:071a2b,100:00e5ff&height=220&section=header&text=SYSTEM%20ONLINE&fontSize=55&fontColor=00e5ff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20digital%20interface&descAlignY=58&descSize=18" width="100%"/>
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&random=false&width=700&lines=Initializing+Developer+Protocol...;Loading+skills+%5B████████████%5D+100%25;Artificial+Intelligence+%7C+Code+%7C+Innovation;Building+the+future%2C+one+commit+at+a+time.;System+ready.+Welcome+to+my+GitHub." alt="Typing Animation"/>
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=PROFILE%20VIEWS&color=00e5ff&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/SEU_USUARIO?label=FOLLOWERS&style=for-the-badge&color=00e5ff&labelColor=050505" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/SEU_USUARIO?label=STARS&style=for-the-badge&color=00e5ff&labelColor=050505" alt="Stars"/>
+</div>
+
+⸻
+
+> WHOAMI
+
+┌──────────────────────────────────────────────────────────────┐
+│                    DEVELOPER PROFILE                         │
+├──────────────────────────────────────────────────────────────┤
+│ Name       : Pedro Souza                                      │
+│ Role       : Software Developer                             │
+│ Focus      : Technology • AI • Development                  │
+│ Status     : ONLINE                                         │
+│ Location   : Brazil 🇧🇷                                     │
+│ Mission    : Build. Learn. Innovate.                        │
+└──────────────────────────────────────────────────────────────┘
+
+🧠 Sobre Mim
+
+<div align="center">
+
+“Transformando ideias em código e código em experiências.”
+
+</div>
+
+Sou um desenvolvedor apaixonado por tecnologia, programação e inovação.
+
+Gosto de transformar problemas em soluções, explorar novas tecnologias e criar projetos que unem performance, criatividade e experiência do usuário.
+
+Atualmente estou focado em evoluir minhas habilidades, construir projetos cada vez mais completos e explorar o potencial da Inteligência Artificial, desenvolvimento de software e automação.
+
+[+] Curious mind
+[+] Problem solver
+[+] Continuous learner
+[+] Technology enthusiast
+[+] Open-source explorer
+
+⸻
+
+⚡ TECH STACK
+
+<div align="center">
+
+Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript&theme=dark" />
+
+Web
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,tailwind&theme=dark" />
+
+Database & Backend
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,supabase&theme=dark" />
+
+Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,figma,postman&theme=dark" />
+</div>
+
+⸻
+
+🛠️ FERRAMENTAS UTILIZADAS
+
+Tool	Purpose
+Git	Version control
+GitHub	Collaboration & Open Source
+VS Code	Development environment
+Linux	Development environment
+Docker	Containers
+Postman	API testing
+Figma	UI/UX Design
+Firebase	Backend & Cloud
+Vercel	Deployment
+
+⸻
+
+🚀 PROJETOS
+
+<div align="center">
+<a href="https://github.com/SEU_USUARIO/PROJETO-1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO-1&theme=tokyonight&hide_border=true&title_color=00e5ff&icon_color=00e5ff" />
+</a>
+<a href="https://github.com/SEU_USUARIO/PROJETO-2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO-2&theme=tokyonight&hide_border=true&title_color=00e5ff&icon_color=00e5ff" />
+</a>
+<a href="https://github.com/SEU_USUARIO/PROJETO-3">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO-3&theme=tokyonight&hide_border=true&title_color=00e5ff&icon_color=00e5ff" />
+</a>
+<a href="https://github.com/SEU_USUARIO/PROJETO-4">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO-4&theme=tokyonight&hide_border=true&title_color=00e5ff&icon_color=00e5ff" />
+</a>
+</div>
+
+⸻
+
+🖥️ CURRENT OBJECTIVES
+
+┌──[ SYSTEM ]───────────────────────────────────────────────┐
+│                                                          │
+│  $ ./current_mission.sh                                  │
+│                                                          │
+│  [✓] Improve programming fundamentals                    │
+│  [✓] Build real-world projects                           │
+│  [>] Master new technologies                             │
+│  [>] Explore Artificial Intelligence                     │
+│  [>] Improve software architecture                       │
+│  [>] Contribute to Open Source                           │
+│                                                          │
+│  STATUS: IN PROGRESS...                                  │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+
+⸻
+
+📊 GITHUB ANALYTICS
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=050505&title_color=00e5ff&text_color=ffffff&langs_count=8" />
+</div>
+<br>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=050505&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff" />
+</div>
+
+⸻
+
+📈 ACTIVITY GRAPH
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=050505&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
+
+⸻
+
+🏆 GITHUB TROPHIES
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
+</div>
+
+⸻
+
+🐍 CONTRIBUTION MATRIX
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+SYSTEM NOTE: A animação da Snake precisa ser configurada através de uma GitHub Action no repositório SEU_USUARIO.
+
+⸻
+
+🌐 CONNECT
+
+<div align="center">
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=050505"/>
+</a>
+<a href="https://instagram.com/SEU_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-00E5FF?style=for-the-badge&logo=instagram&logoColor=050505"/>
+</a>
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=050505"/>
+</a>
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://img.shields.io/badge/GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=050505"/>
+</a>
+</div>
+
+⸻
+
+<div align="center">
+
+> SYSTEM MESSAGE
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Stay+curious.;Keep+building.;Keep+learning.;The+future+is+written+in+code." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:071a2b,100:050505&height=120&section=footer" width="100%"/>
+
+© 2026 SEU NOME • SYSTEM ONLINE • BUILT WITH CODE
+
+</div>
